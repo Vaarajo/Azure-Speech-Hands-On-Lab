@@ -1,0 +1,11 @@
+0000000001	We'll hear argument in Case sixteen twelve fifteen, Lamar, Archer and Cofrin versus Appling. Mr. Garre. Thank you, Mr. Chief Justice, and may it please the Court
+0000000002	Section 523 A 2 A of the Bankruptcy Code prohibits the discharge of debts procured by fraudulent statements, other than a
+0000000003	a statement respecting the debtor's financial condition. Everyone agrees that financial condition is a term of art used by Congress
+0000000004	and in commercial practice to refer to one's overall financial status. Yet, Respondent and the government ask this Court to interpret Section five twenty
+0000000005	three and, in particular, Congress's use of "respecting" to eliminate the meaning of "financial condition," of a term of art, and essentially to
+0000000007	substitute the word "finances" for it. Can you tell me, Mr. Garre, what is a statement respecting financial condition? In addition to
+0000000008	to a balance sheet and a profit and loss statement, what else would qualify? Sure. Well, our view is that a statement respecting financial condition is a statement that purports
+0000000009	to present a picture of one's overall financial situation. And there are several things that could qualify as em as that. One would, of course, be a classic
+0000000010	balance statement or sheet. Another would be an indication of net em net wealth or overall income
+0000000011	em a net worth. Another would be a credit score, such as those that were common in 1926, when Congress passed this statute. Another would be
+0000000012	net cash flow. All of these things look to one's overall financial situation, not to just one side of the ledger, an asset
